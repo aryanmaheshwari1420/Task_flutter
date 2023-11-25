@@ -58,19 +58,19 @@ class DetailsScreen extends StatelessWidget {
                 ),
               )),
             ),
-            Padding(
-              padding: const EdgeInsets.all(8.0),
-              child: Container(
-                // color: Colors.yellow,
-                child: Text(
-                  "Name: ${movie['show']?['name'] ?? 'Not available'}",
-                  style: TextStyle(
-                      fontSize: 24,
-                      fontWeight: FontWeight.bold,
-                      color: Color.fromARGB(255, 103, 99, 99)),
-                ),
-              ),
-            ),
+            // Padding(
+            //   padding: const EdgeInsets.all(8.0),
+            //   child: Container(
+            //     // color: Colors.yellow,
+            //     child: Text(
+            //             movie['show']['url'],
+            //       style: TextStyle(
+            //           fontSize: 24,
+            //           fontWeight: FontWeight.bold,
+            //           color: Color.fromARGB(255, 103, 99, 99)),
+            //     ),
+            //   ),
+            // ),
           ],
         ),
       ),
