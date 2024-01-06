@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Movie App',
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity,
-        appBarTheme: AppBarTheme(
+        appBarTheme: AppBarTheme(   
           color: Colors.black,
         ),
         textTheme: TextTheme(
