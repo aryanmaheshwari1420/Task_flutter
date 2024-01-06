@@ -1,6 +1,5 @@
 # 👑 Royal TV Show Explorer 👑
 
-![App Screenshot](https://github.com/aryanmaheshwari1420/Task_flutter/assets/98485902/cdcdebbd-d50a-44ec-9163-9350f2b1bbbe)
 
 ## Overview
 Royal TV Show Explorer is a majestic Flutter app crafted to unveil the world of TV show brilliance. Harnessing the power of the TVMaze API, the app elegantly fetches dynamic data, allowing users to bask in the glory of show names, images, and enchanting descriptions.
@@ -18,6 +17,8 @@ Royal TV Show Explorer is a majestic Flutter app crafted to unveil the world of 
 
 ![Search Screen](https://github.com/aryanmaheshwari1420/Task_flutter/assets/98485902/49c1b39c-1c37-4bb1-8fc9-978e9c6079df)
 *Search Screen - Empowers users to seek royal TV shows by name.*
+![App Screenshot](https://github.com/aryanmaheshwari1420/Task_flutter/assets/98485902/cdcdebbd-d50a-44ec-9163-9350f2b1bbbe)
+
 
 ## Getting Started
 Embark on the royal journey to experience the app's grandeur:
@@ -36,3 +37,7 @@ Make sure to include these dependencies in your pubspec.yaml file.
 
 ## Contributing 🤝
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and suggestions are highly appreciated.
+
+## Contact 📬
+You can reach out to me through my LinkedIn profile: [Aryan Maheshwari](https://www.linkedin.com/in/aryan-maheshwari-020bb0206/).
+
