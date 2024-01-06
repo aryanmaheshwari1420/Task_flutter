@@ -1,7 +1,5 @@
 ### TV Show Explorer App 📺🔍
 
-![App Screenshot](https://github.com/aryanmaheshwari1420/Task_flutter/assets/98485902/cdcdebbd-d50a-44ec-9163-9350f2b1bbbe)
-
 Overview 🌐
 TV Show Explorer is a Flutter app designed to explore TV show information. The app utilizes the TVMaze API to fetch dynamic data, allowing users to view details such as show names, images, and descriptions.
 
@@ -18,6 +16,8 @@ TV Show Explorer is a Flutter app designed to explore TV show information. The a
 
 ![Search Screen](https://github.com/aryanmaheshwari1420/Task_flutter/assets/98485902/49c1b39c-1c37-4bb1-8fc9-978e9c6079df)
 *Search Screen - Allows users to search for TV shows by name.*
+![App Screenshot](https://github.com/aryanmaheshwari1420/Task_flutter/assets/98485902/cdcdebbd-d50a-44ec-9163-9350f2b1bbbe)
+
 
 ## Getting Started 🚀
 To run the app locally, follow these steps:
