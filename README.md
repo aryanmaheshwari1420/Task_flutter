@@ -1,4 +1,4 @@
-TV Show Explorer App 📺🔍
+### TV Show Explorer App 📺🔍
 
 ![App Screenshot](https://github.com/aryanmaheshwari1420/Task_flutter/assets/98485902/cdcdebbd-d50a-44ec-9163-9350f2b1bbbe)
 
